@@ -34,8 +34,8 @@ unsigned long lastTime = 0;
 unsigned long timerDelay = 30000;
 
 // Replace with your network credentials
-const char* ssid = "SianAP-2F";
-const char* password = "sian79917";
+const char* ssid = "xxxxx";
+const char* password = "xxxxx";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
