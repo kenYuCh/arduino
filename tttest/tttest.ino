@@ -26,8 +26,8 @@ unsigned long lastTime = 0;
 unsigned long timerDelay = 30000;
 
 // Replace with your network credentials
-const char* ssid = "SianAP";
-const char* password = "sian79917";
+const char* ssid = "xxxxx";
+const char* password = "xxxxx";
 
 //Your Domain name with URL path or IP address with path
 String serverName = "http://192.168.1.111:80/fishtemp";
