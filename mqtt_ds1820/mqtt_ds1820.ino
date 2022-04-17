@@ -7,8 +7,8 @@
 // Data wire is connected to GPIO 4
 #define ONE_WIRE_BUS 4
 
-#define WLAN_SSID       "SianAP-2F"
-#define WLAN_PASS       "sian79917"
+#define WLAN_SSID       "xxxxx"
+#define WLAN_PASS       "xxxxx"
 
 #define AIO_SERVER      "192.168.0.200"        //IP address of unbunto
 #define AIO_SERVERPORT  1883                 
@@ -36,8 +36,8 @@ unsigned long lastTime = 0;
 unsigned long timerDelay = 30000;
 
 // Replace with your network credentials
-const char* ssid = "SianAP-2F";
-const char* password = "sian79917";
+const char* ssid = "xxxxx";
+const char* password = "xxxxx";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
